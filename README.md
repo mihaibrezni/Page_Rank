@@ -36,11 +36,11 @@
 * To find the two varaible a si b make a sistem at limit val1 and val2:
 
   ```bash
-  1 = a\*val2 + b
+  1 = a*val2 + b
   ```
 
   ```bash
-  0 = a\*val1 + b
+  0 = a*val1 + b
   ```
 
   ```bash
@@ -48,11 +48,11 @@
   ```
 
   ```bash
-  1 = a\*(val2 - val1)
+  1 = a*(val2 - val1)
   ```
 
   ```bash
-  b = a - a \* val1
+  b = a - a * val1
   ```
 
 ## ->Feedback
