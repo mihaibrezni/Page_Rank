@@ -16,11 +16,11 @@
 * Same story as above, but you will need to calculate rank knowing that :
 
   ```bash
-   R = (d\*M + ( 1 - D)/ nr\*E)\*R cu E*R= 1, so
+   R = (d\*M + ( 1 - D)/ nr\*E)\*R cu E\*R= 1, so
   ```
 
   ```bash
-   R = (I - d*M)^(-1) \* ( 1 - d ) / nr
+   R = (I - d\*M)^(-1) \* ( 1 - d ) / nr
    ```
 
 * The last relation represents a superior triangular system, which is solved by the SST() method.
