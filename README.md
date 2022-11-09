@@ -57,8 +57,8 @@
 
 Documentatie:
 
-[https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
-[https://www.gnu.org/software/octave](https://www.gnu.org/software/octave)
+* [https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
+* [https://www.gnu.org/software/octave](https://www.gnu.org/software/octave)
 
 ## ->Feedback
 
