@@ -55,7 +55,7 @@
   b = a - a * val1
   ```
 
-Documentatie:
+Documentation:
 
 * [https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
 * [https://www.gnu.org/software/octave](https://www.gnu.org/software/octave)
