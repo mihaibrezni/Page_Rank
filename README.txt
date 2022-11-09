@@ -30,6 +30,10 @@ Pentru a găsi cele două variabile a si b faceți un sistem la limita val1 și 
 1 = a(val2 - val1)
 b = a - a * val1
 
+Documentatie:
+
+https://en.wikipedia.org/wiki/PageRank
+https://www.gnu.org/software/octave
+
 -> Feedback:
     Un subiect foarte interesant care m-a făcut destul de curios cu privire la ceea ce se întâmplă în spatele unui motor de căutare pe care îl folosesc zilnic.
-Multumiri autorilor :)
