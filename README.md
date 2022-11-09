@@ -59,9 +59,3 @@
 
 A very interesting topic that made me quite curious about what happens
 behind a search engine that I use every day.
-Thanks to the authors :)
-
-## PS : Also check this guys for a different point of view
-
-* [raduqq](https://github.com/raduqq/PageRank)
-* [sorindragan](https://github.com/sorindragan/page-rank)
