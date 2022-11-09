@@ -55,6 +55,11 @@
   b = a - a * val1
   ```
 
+Documentatie:
+
+[https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
+[https://www.gnu.org/software/octave](https://www.gnu.org/software/octave)
+
 ## ->Feedback
 
 A very interesting topic that made me quite curious about what happens
