@@ -1,11 +1,11 @@
 % call function PageRank("graf1", 0.85, 0.001)
 function PR = Algebraic(nume, d)
-	% Functia care calculeaza vectorul PageRank folosind varianta algebrica de calcul.
-	% Intrari: 
-	%	-> nume: numele fisierului in care se scrie;
-	%	-> d: probabilitatea ca un anumit utilizator sa continue navigarea la o pagina urmatoare.
-	% Iesiri:
-	%	-> R: vectorul de PageRank-uri acordat pentru fiecare pagina.
+	% The function that calculates the PageRank vector using the algebraic calculation variant.
+	% Entries: 
+	%	-> name: the name of the file to write to;
+	%	-> d: the likelihood that a particular user will continue to navigate to the next page.
+	% Exits:
+	%	-> R: the PageRank vector given for each page.
 
    # create matrix A and link matrix
    [A, nr, link] = take_graph(nume);

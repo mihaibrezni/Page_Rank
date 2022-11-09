@@ -1,3 +1,4 @@
+# nu are CHECKER, verificarea se face prin compararea rezultatului cu fisierele graf1 si graf2
 # call function PageRank("graf1", 0.85, 0.001)
 function  PageRank(nume, d, eps)
 	% Calculeaza indicii PageRank pentru cele 3 cerinte
@@ -49,4 +50,25 @@ function  PageRank(nume, d, eps)
    fclose(out_fid);
 endfunction
 
-# done :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# https://github.com/sorindragan/page-rank
+# https://github.com/raduqq/PageRank

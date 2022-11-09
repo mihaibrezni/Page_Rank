@@ -21,7 +21,7 @@ aux = ones(nr, 1);
 while true
 	initial_R = R;
 	R = ((double)(1-d)/nr)*aux + d*M*R;
-	if abs(R - initial_R) < eps
+	if abs(R - initial_R) < eps # condition to stop
 		break;
 	end
 end
